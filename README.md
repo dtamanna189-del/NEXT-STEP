@@ -133,7 +133,7 @@ https://dtamanna189-del.github.io/NEXT-STEP/
 
 ## 💬 Note
 
-This project is built for learning and portfolio purposes. Feel free to use and improve it!
+This project is a simple application that helps users manage and organize daily tasks efficiently while demonstrating basic programming concepts and improving productivity.
 
 ---
 
